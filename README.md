@@ -1,6 +1,7 @@
 # Simple-Calculator
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)
+[![TryHackMe Badge](https://tryhackme.com/img/logo/tryhackme_logo_full.svg)](https://tryhackme.com/p/0xacun3tix)
+
 
 
 
