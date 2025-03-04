@@ -1,6 +1,6 @@
 # Simple-Calculator
 
-[![TryHackMe Badge](https://tryhackme.com/img/logo/tryhackme_logo_full.svg)](https://tryhackme.com/p/0xacun3tix)
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2511333)
 
 
 
