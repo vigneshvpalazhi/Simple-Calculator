@@ -1,5 +1,8 @@
 # Simple-Calculator
 
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2511333)
+
+
 # Simple GUI Calculator
 
 A basic calculator application built with Python and Tkinter that performs addition, subtraction, multiplication, and division operations.
